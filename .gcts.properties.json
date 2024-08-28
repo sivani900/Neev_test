@@ -1,0 +1,14 @@
+{
+  "name": "_nev_home",
+  "version": "1.0.0",
+  "description": "_NEV_HOME",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/5A401010DBAD1EEF99A303FBD96D85FF_0"
+  }
+}
