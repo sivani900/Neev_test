@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT /NEV/STUDENT_DATA_EXMP.
 
-WRITE: sy-datum  && 'Hello World'.
+WRITE: sy-datum  && 'Hello Thomas'.
