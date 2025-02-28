@@ -16,6 +16,6 @@ CLASS /NEV/TEST_CL_BTP IMPLEMENTATION.
 
 
   method IF_OO_ADT_CLASSRUN~MAIN.
-    out->write( 'Hello BTP world VENU' ).
+    out->write( 'Hello BTP world THomas' ).
   endmethod.
 ENDCLASS.
